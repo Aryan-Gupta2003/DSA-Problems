@@ -18,10 +18,10 @@ int maxprofit(int arr[], int n)
 }
 int main()
 {
-    int a[10], n, x, c, s, e;
+    int a[10], n;
     cout << "Enter no. of elements in array A: ";
     cin >> n;
-    cout << "Enter elements in array: " << endl;
+    cout << "Enter elements in array: ";
     for (int i = 0; i < n; i++)
     {
         cin >> a[i];
