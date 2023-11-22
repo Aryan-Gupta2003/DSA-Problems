@@ -1,3 +1,5 @@
+// Best Time to Buy and Sell Stock
+
 #include <bits/stdc++.h>
 using namespace std;
 int maxprofit(int arr[], int n)
