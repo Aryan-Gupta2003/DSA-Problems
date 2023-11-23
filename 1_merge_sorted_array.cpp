@@ -1,5 +1,6 @@
+// Merge the 2 Sorted Array into another array
+
 #include <bits/stdc++.h>
-#include <vector>
 using namespace std;
 
 int main()
