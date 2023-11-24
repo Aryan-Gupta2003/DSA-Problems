@@ -2,34 +2,27 @@
 
 #include <bits/stdc++.h>
 using namespace std;
-int product(int arr[], int n)
+int product(int a[], int n)
 {
     if (n == 1)
     {
         cout << 0;
         return 0;
     }
+    int *l = new int[sizeof(int) * n];
+    int *r = new int[sizeof(int) * n];
     int *prod = new int[sizeof(int) * n];
-    // memset(prod, 1, n);
+    l[0] = 1;
+    r[n - 1] = 1;
+    for (int i = 1; i < n; i++)
+        l[i] = a[i - 1] * l[i - 1];
+
+    for (int i = (n - 2); i >= 0; i--)
+        r[i] = a[i + 1] * r[i + 1];
+
     for (int i = 0; i < n; i++)
-    {
-        prod[i] = 1;
-    }
-    for (int i = 0; i < n; i++)
-    {
-        if (n == 0)
-        {
-            cout << 0;
-            return 0;
-        }
-        int p = arr[i];
-        for (int j = 0; j < n; j++)
-        {
-            if (j == i)
-                continue;
-            prod[i] = prod[i] * arr[j];
-        }
-    }
+        prod[i] = l[i] * r[i];
+
     cout << "\nProduct Array: ";
     for (int i = 0; i < n; i++)
     {
