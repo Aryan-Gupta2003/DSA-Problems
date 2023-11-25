@@ -10,4 +10,8 @@
 
 [4. Find Duplicates](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/4_find_duplicate.cpp)
 
-[5. Product Array](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/5_product_array.cpp)
+[5. Product Array 1](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/5_product_array.cpp)
+
+[6. Product Array 2](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/6_product_array_2.cpp)
+
+[7. Largest Sum](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/7_largest_sum.cpp)
