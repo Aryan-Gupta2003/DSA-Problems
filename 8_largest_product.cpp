@@ -1,19 +1,23 @@
-// Largest Sum Contiguous Subarray (Kadane’s Algorithm)
+// Maximum Product Subarray
 
 #include <bits/stdc++.h>
 using namespace std;
 int max_sum(int a[], int n)
 {
-    int c = 0, largest_sum = INT_MIN;
-    for (int i = 0; i < n; i++)
+    int c1 = a[0], c2 = a[0], largest_product = a[0];
+    for (int i = 1; i < n; i++)
     {
-        c += a[i];
-        if (largest_sum < c)
-            largest_sum = c;
-        if (c < 0)
-            c = 0;
+        int temp = max(a[i] * c1, a[i] * c2);
+        temp = max(a[i], temp);
+
+        c1 = min(a[i] * c1, a[i] * c2);
+        c1 = min(a[i], c1);
+
+        c2 = temp;
+
+        largest_product = max(largest_product, c2);
     }
-    return largest_sum;
+    return largest_product;
 }
 
 int main()
