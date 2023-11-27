@@ -15,3 +15,7 @@
 [6. Product Array 2](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/6_product_array_2.cpp)
 
 [7. Largest Sum](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/7_largest_sum.cpp)
+
+[8. Largest Product](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/8_largest_product.cpp)
+
+[9. Minimum Element](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/9_min_element.cpp)
