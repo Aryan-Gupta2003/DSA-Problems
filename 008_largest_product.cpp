@@ -7,14 +7,9 @@ int max_sum(int a[], int n)
     int c1 = a[0], c2 = a[0], largest_product = a[0];
     for (int i = 1; i < n; i++)
     {
-        int temp = max(a[i] * c1, a[i] * c2);
-        temp = max(a[i], temp);
-
-        c1 = min(a[i] * c1, a[i] * c2);
-        c1 = min(a[i], c1);
-
+        int temp = max(max(a[i], a[i] * c1), a[i] * c2);
+        c1 = min(min(a[i], a[i] * c1), a[i] * c2);
         c2 = temp;
-
         largest_product = max(largest_product, c2);
     }
     return largest_product;
