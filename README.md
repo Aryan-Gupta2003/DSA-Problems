@@ -19,3 +19,5 @@
 [8. Largest Product](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/8_largest_product.cpp)
 
 [9. Minimum Element](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/9_min_element.cpp)
+
+[10. Triplet Sum](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/010_triplet_sum.cpp)
