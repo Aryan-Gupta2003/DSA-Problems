@@ -21,3 +21,5 @@
 [9. Minimum Element](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/9_min_element.cpp)
 
 [10. Triplet Sum](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/010_triplet_sum.cpp)
+
+[11. Find Max Area](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/011_max_area.cpp)
