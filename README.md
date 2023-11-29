@@ -23,3 +23,5 @@
 [10. Triplet Sum](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/010_triplet_sum.cpp)
 
 [11. Find Max Area](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/011_max_area.cpp)
+
+[12. Finf Trap Water](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/012_trap_rain_water.cpp)
