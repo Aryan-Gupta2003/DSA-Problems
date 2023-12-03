@@ -29,3 +29,5 @@
 ## Matrix
 
 [1. Set Matrix Zeroes](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/013_set_zeroes.cpp)
+
+[2. Spiral Matrix](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/014_spiral_matrix.cpp)
