@@ -17,7 +17,10 @@ void printmatrix(int m[R][C])
 }
 int main()
 {
-    int a[R][C] = {{1, 2, 3, 4}, {5, 6, 7, 8}, {9, 10, 11, 12}, {13, 14, 15, 16}};
+    int a[R][C] = {{1, 2, 3, 4},
+                   {5, 6, 7, 8},
+                   {9, 10, 11, 12},
+                   {13, 14, 15, 16}};
     int b[R][C];
     cout << "Given Matrix: " << endl;
     printmatrix(a);
