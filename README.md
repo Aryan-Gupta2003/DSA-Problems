@@ -26,6 +26,8 @@
 
 [12. Find Trap Water](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/012_trap_rain_water.cpp)
 
+[13. Insert interval in array](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/017_overlap_interval.cpp)
+
 ## Matrix
 
 [1. Set Matrix Zeroes](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/013_set_zeroes.cpp)
