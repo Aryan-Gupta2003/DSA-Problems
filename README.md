@@ -30,6 +30,8 @@
 
 [14. Find factorial of large number](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/018_factorial_large_no.cpp)
 
+[15. Merge interval](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/019_merge_intervals.cpp)
+
 ## Matrix
 
 [1. Set Matrix Zeroes](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/013_set_zeroes.cpp)
