@@ -41,3 +41,7 @@
 [3. Transpose a Matrix](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/015_transpose_matrix.cpp)
 
 [4. Word Search](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/016_search_word.cpp)
+
+## String
+
+[1. Longest Substring without repeatiing letters](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/020_longest_substring.cpp)
