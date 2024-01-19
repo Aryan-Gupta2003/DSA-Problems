@@ -4,15 +4,15 @@
 
 [1. Buy and Sell](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/3_buy_and_sell.cpp)
 
-[2. Merge Sorted Array](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/1_merge_sorted_array.cpp)
+[2. Find Duplicates](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/4_find_duplicate.cpp)
 
-[3. Sum in Array](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/2_sum_in_array.cpp)
+[3. Merge Sorted Array](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/1_merge_sorted_array.cpp)
 
-[4. Find Duplicates](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/4_find_duplicate.cpp)
+[4. Product Array 1](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/5_product_array.cpp)
 
-[5. Product Array 1](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/5_product_array.cpp)
+[5. Product Array 2](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/6_product_array_2.cpp)
 
-[6. Product Array 2](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/6_product_array_2.cpp)
+[6. Sum in Array](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/2_sum_in_array.cpp)
 
 [7. Largest Sum](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/7_largest_sum.cpp)
 
