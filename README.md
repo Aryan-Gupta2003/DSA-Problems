@@ -46,6 +46,8 @@
 
 [1. Check 2 strings are anagram](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/021_check_anagram.cpp)
 
-[2. Longest Substring without repeatiing letters](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/020_longest_substring.cpp)
+[2. Check Paranthesis Balance](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/023_paranthesis_balance.cpp)
 
-[3. Print all anagram together](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/022_print_anagram.cpp)
+[3. Longest Substring without repeatiing letters](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/020_longest_substring.cpp)
+
+[4. Print all anagram together](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/022_print_anagram.cpp)
