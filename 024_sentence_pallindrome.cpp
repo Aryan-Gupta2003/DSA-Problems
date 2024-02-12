@@ -1,3 +1,5 @@
+// Check pallindrome in sentence (Palindrome after removing spaces, dots, .. etc)
+
 #include <bits/stdc++.h>
 using namespace std;
 
