@@ -50,6 +50,8 @@
 
 [3. Check Sentence Pallindrome](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/024_sentence_pallindrome.cpp)
 
+[4. Find Longest Pallindromic Substring](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/025_longest_pallindromic_substring.cpp)
+
 [4. Longest Substring without repeatiing letters](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/020_longest_substring.cpp)
 
 [5. Print all anagram together](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/022_print_anagram.cpp)
