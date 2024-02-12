@@ -48,6 +48,8 @@
 
 [2. Check Paranthesis Balance](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/023_paranthesis_balance.cpp)
 
-[3. Longest Substring without repeatiing letters](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/020_longest_substring.cpp)
+[3. Check Sentence Pallindrome](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/024_sentence_pallindrome.cpp)
 
-[4. Print all anagram together](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/022_print_anagram.cpp)
+[4. Longest Substring without repeatiing letters](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/020_longest_substring.cpp)
+
+[5. Print all anagram together](https://github.com/Aryan-Gupta2003/DSA-Problems/blob/main/022_print_anagram.cpp)
