@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    string s = "HelloHowAreYou";
+    string s = "abc";
     string a = "";
     int c = 0, m = 0, i = 0, j = 1;
     while (i < s.length())
@@ -28,7 +28,8 @@ int main()
         }
         i++;
     }
-    cout << "Input string: " << s << endl;
-    cout << "Longest substring without repeating characters: " << m << endl;
+    m = (m < c) ? c : m;
+    cout << "Longest substring without repeating characters: " << m;
+    cout << endl;
     return 0;
 }
